@@ -1,0 +1,80 @@
+
+.image-box{
+	
+	padding: relative;
+}
+
+.image-box img{
+	width: 50%;
+	margin: auto;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    font-family: Lato,"Microsoft YaHei",sans-serif;
+	font-weight: 400;
+	font-size: 1.1em;
+	color: #eef3f0;
+	text-align: center;
+	box-sizing: border-box;
+	width: 300px;
+	height: 300px;
+	border: 10px solid #aee2d9;
+	border-radius: 50%;
+
+ 	
+}
+.image-box h1{
+	-webkit-tap-highlight-color: rgba(0,0,0,0);
+	font-family: Lato,"Microsoft YaHei",sans-serif;
+	color: #eef3f0;
+	box-sizing: border-box;
+	font-size: 3.5em;
+	text-shadow: 1px 2px #22c3aa,2px 4px #aee2d9;
+	text-align: center;
+	margin: 0.25em 0 0 0;
+}
+.section-center{
+	-webkit-tap-highlight-color: rgba(0,0,0,0);
+	font-family: Lato,"Microsoft YaHei",sans-serif;
+	font-weight: 400;
+	font-size: 1.1em;
+	box-sizing: border-box;
+	background-color: #22c3aa;
+	color: #eef3f0;
+	transition: 0.5s;
+	text-align: center;
+	text-shadow: none !important;
+	padding: 50px 10px;
+}
+.btn1 {
+	margin:50 60 50 50;
+	-webkit-tap-highlight-color: rgba(0,0,0,0);
+	font-family: Lato,"Microsoft YaHei",sans-serif;
+	font-weight: 400;
+	font-size: 0.8em;
+	box-sizing: border-box;
+	text-decoration: none;
+	transition: 0.5s;
+	display: inline-block;
+	border-radius: 5px;
+	padding: 2px 8px;
+	background-color: #aee2d9;
+	color: #008a75;
+	cursor: default;
+}
+.btn2 {
+	margin:50 60 50 50;
+	-webkit-tap-highlight-color: rgba(0,0,0,0);
+	font-family: Lato,"Microsoft YaHei",sans-serif;
+	font-weight: 400;
+	font-size: 0.8em;
+	box-sizing: border-box;
+	text-decoration: none;
+	transition: 0.5s;
+	display: inline-block;
+	border-radius: 5px;
+	padding: 2px 8px;
+	background-color: #aee2d9;
+	color: #008a75;
+	cursor: default;
+	
+	
+}
